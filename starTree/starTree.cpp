@@ -14,11 +14,7 @@ int main()
 		}
 		for (int j = 10; j > i; j--)
 		{
-			std::cout << "*";
-		}
-		for (int s = 10; s > i; s--)
-		{
-			std::cout << "*";
+			std::cout << "**";
 		}
 		std::cout << std::endl;
 	}
